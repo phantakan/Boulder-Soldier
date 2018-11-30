@@ -1,0 +1,9 @@
+Character List:
+ 
+{	Boulder Soldier (Mr. "Not so Bold Older Boulder who happens to be a Soldier")
+		"As a former five-star US general during WWII and a witness to all of its horrors, the 80 year old veteran's days of boldness and battles are all but behind him. But when a group of terrorists break into his home and kills his one year old rockweiler, the warrior of old must suit up once again to not only avenge his fallen doggo, but to also unleash the fury of elderly-vengeance on the ones who took everything from him. This July, it's time to rock and roll one last time."
+}
+
+{	Exstreamists
+		"Terrorists that killed Boulder Soldier's dog"
+}
